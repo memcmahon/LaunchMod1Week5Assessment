@@ -2,9 +2,9 @@
 
 ## Questions (10 Points Possible)
 1. What would happen if you try to use a variable that is not in scope?
-
+dfgsdfgdfg
 2. Describe the three As of a test:  
-A -   
+A -   sdfsdf
 A -   
 A -   
 
