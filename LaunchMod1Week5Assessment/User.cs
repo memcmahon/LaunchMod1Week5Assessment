@@ -18,6 +18,7 @@ namespace LaunchMod1Week5Assessment
             Name = name;
             Email = email;
             IsLoggedIn = false;
+            Console.WriteLine("Here we are!");
         }
 
         public bool IsSetupComplete()
